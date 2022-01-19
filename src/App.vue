@@ -14,6 +14,7 @@ export default {
     HelloWorld,
   },
 };
+console.log("test");
 </script>
 
 <style>
